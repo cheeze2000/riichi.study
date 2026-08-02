@@ -11,10 +11,11 @@
 
   <style>
     :root {
-      --theme-color: #85BEEC;
+      --theme-color: #6ab5e7;
+      --font-size: 17px;
       --font-weight: 400;
       --strong-font-weight: 700;
-      --sidebar-group-title-font-size: 17px;
+      --sidebar-group-title-font-size: 18px;
     }
 
     .sidebar-nav a:hover {
@@ -77,24 +78,22 @@
       markdown: {
         renderer: {
           code({ lang, text }) {
-            const svg = renderMahjongSvg("block", text);
-
-            if (lang === "mj") {
-              return `<div style="text-align: center">${svg}</div>`;
-            } else if (lang === "mjl") {
-              return `<div style="text-align: left">${svg}</div>`;
-            } else if (lang === "mjr") {
-              return `<div style="text-align: right">${svg}</div>`;
-            } else {
+            if (lang !== "mj") {
               return this.origin.code.apply(this, arguments);
             }
+
+            const svg = renderMahjongSvg("block", text);
+
+            return `<div>${svg}</div>`;
           },
           codespan({ text }) {
-            if (text.startsWith("mj ")) {
-              return renderMahjongSvg("inline", text.slice(3));
+            if (!text.startsWith("mj ")) {
+              return `<code>${text}</code>`;
             }
 
-            return `<code>${text}</code>`;
+            const svg = renderMahjongSvg("inline", text.slice(3));
+
+            return `<span style="margin: 0 0.15em">${svg}</span>`;
           },
         },
       },
