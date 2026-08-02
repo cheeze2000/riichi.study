@@ -1,4 +1,4 @@
-## Calls
+# Calls
 
 Players have the option to make **calls** on top of the standard draw-and-discard flow.
 
@@ -6,7 +6,16 @@ There are 2 kinds of calls:
 - Calls on tiles discarded by other players
 - Calls on your own tiles
 
-### Chii
+Calling on discarded tiles can help you form melds to advance your hand.
+
+When forming melds with a discarded tile, the discarded tile is rotated and positioned according to who you called it from.
+- Positioned on the left = called from your left
+- Positioned in the center = called from across
+- Positioned on the right = called from your right
+
+Melds formed this way are displayed to everyone.
+
+## Chii
 
 You can call **chii** to complete a sequence with a discarded tile. **Chii** can only be called on tiles discarded by the player to your **left**.
 
@@ -15,9 +24,9 @@ You can call **chii** to complete a sequence with a discarded tile. **Chii** can
 ```
 
 > [!WARNING]
-> The tile that you discard may not be a tile that can also complete the sequence!
+> The tile that you discard may not be a tile that can also complete the sequence! TODO: insert kuikae page
 
-### Pon
+## Pon
 
 You can call **pon** to complete a triplet with a discarded tile. Unlike **chii**, **pon** can be called on tiles discarded by **any** player.
 
@@ -28,13 +37,11 @@ You can call **pon** to complete a triplet with a discarded tile. Unlike **chii*
 > [!WARNING]
 > The tile that you discard may not be a tile that can also complete the triplet!
 
-### Kan
+## Kan
 
-You can call **kan** to complete a quad. A quad generally functions as a triplet.
+You can call **kan** to complete a quad. There are 3 types of **kan**.
 
-There are 3 types of **kan**.
-
-##### Closed kan
+#### Closed kan
 
 You can call **kan** to declare a closed **kan** if you have all four copies of a tile.
 
@@ -42,7 +49,7 @@ You can call **kan** to declare a closed **kan** if you have all four copies of 
 0z22s0z
 ```
 
-##### Open kan
+#### Open kan
 
 You can call **kan** to complete a quad with a discarded tile. Like **pon**, **kan** can be called on tiles discarded by **any** player.
 
@@ -50,7 +57,7 @@ You can call **kan** to complete a quad with a discarded tile. Like **pon**, **k
 88-88m _ 3333-z
 ```
 
-##### Added kan
+#### Added kan
 
 You can call **kan** to upgrade a **pon**'d triplet into an added **kan** if you have the fourth tile.
 
@@ -58,19 +65,10 @@ You can call **kan** to upgrade a **pon**'d triplet into an added **kan** if you
 555=m _ 8=88p _ 77=7z
 ```
 
-### Tsumo
+## Tsumo
 
-You can call **tsumo** to declare a win after drawing your winning tile.
+You can call **tsumo** if you draw your winning tile.
 
-```mj
-1299m234p999s _ 3m _ 11-1z
-```
+## Ron
 
-The hand above wins after drawing `mj 3m` to complete the last sequence.
-
-### Ron
-
-You can call **ron** to declare a win on a player's discarded tile.
-
-> [!WARNING]
-> You may not call **ron** if you are in furiten.
+You can call **ron** on a discarded tile if it is your winning tile.

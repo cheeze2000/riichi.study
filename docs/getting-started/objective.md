@@ -85,7 +85,7 @@ The hand above wins after drawing `mj 7p` to complete the last sequence. The win
 
 ### Ron
 
-You can call **ron** to declare a win on a player's discarded tile.
+You can call **ron** to declare a win on another player's discarded tile.
 
 > [!WARNING]
 > You may not call **ron** if you are in furiten. TODO: insert furiten page
