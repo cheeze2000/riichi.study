@@ -6,7 +6,7 @@ Riichi mahjong (or Japanese mahjong) is the Japanese variant of the mahjong game
 
 Riichi mahjong is played with 136 tiles. There are 34 kinds of tiles, 4 copies each.
 
-Tiles are mainly categorized into 2: **number** tiles and **honor** tiles.
+Tiles are mainly categorized into **number** tiles and **honor** tiles.
 
 ### Number tiles
 
@@ -84,9 +84,11 @@ Pairs are just... pairs.
 555m11789p234s444z
 ```
 
-| Meld | Pair | Meld | Meld | Meld |
-| --- | --- | --- | --- | --- |
-| `mj 555m` | `mj 11p` | `mj 789p` | `mj 234s` | `mj 444z` |
+- Meld #1: `mj 555m`
+- Meld #2: `mj 789p`
+- Meld #3: `mj 234s`
+- Meld #4: `mj 444z`
+- Pair: `mj 11p`
 
 ## Game structure
 
