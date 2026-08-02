@@ -70,6 +70,15 @@ Triplets are formed with any 3 identical tiles.
 333s_222z_555z
 ```
 
+#### Quads
+
+Quads are formed with any 4 identical tiles.
+Quads generally function as triplets.
+
+```mj
+4444p _ 1111s
+```
+
 ### Pair
 
 Pairs are just... pairs.
