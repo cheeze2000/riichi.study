@@ -27,7 +27,7 @@ function _svgTemplate(position, tile, modifier, background) {
 
 	if (modifier === "=") {
 		return `
-			<svg class="tile-${position}--rotated" viewBox="0 0 36 57">
+			<svg class="tile-${position}--stacked" viewBox="0 0 36 57">
 				<svg viewBox="0 0 36 27" x="0" y="0" width="100%" height="50%">
 					<rect width="100%" height="100%" rx="4" ry="4" fill="${background}" />
 					<use href="_images/mj.svg#${tile}" x="5.5" y="-4" width="25" height="35" transform="rotate(-90, 18, 13.5)"/>
