@@ -84,6 +84,7 @@ Pairs are just... pairs.
 555m11789p234s444z
 ```
 
+The four melds and one pair are:
 - Meld #1: `mj 555m`
 - Meld #2: `mj 789p`
 - Meld #3: `mj 234s`

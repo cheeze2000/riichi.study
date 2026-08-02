@@ -15,6 +15,9 @@
       --font-size: 17px;
       --font-weight: 400;
       --strong-font-weight: 700;
+      --content-margin-inline: 30px;
+      --sidebar-toggle-width: 15px;
+      --sidebar-toggle-height: 60px;
       --sidebar-group-title-font-size: 18px;
     }
 
@@ -35,6 +38,13 @@
       bottom: 0;
       width: 3px;
       background: var(--theme-color);
+    }
+
+    .tile-row {
+      display: flex;
+      white-space: nowrap;
+      overflow-x: auto;
+      gap: 3px;
     }
 
     .tile-block {
@@ -85,7 +95,7 @@
 
             const svg = renderMahjongSvg("block", text);
 
-            return `<div>${svg}</div>`;
+            return `<div class="tile-row">${svg}</div>`;
           },
           codespan({ text }) {
             if (!text.startsWith("mj ")) {
