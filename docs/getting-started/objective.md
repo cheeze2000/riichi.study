@@ -111,7 +111,7 @@ Exhaustive draw occurs when there are no more tiles to draw.
 
 Players may declare **tenpai** and reveal their **tenpai** hands. Players may also declare **noten** (no tenpai) without revealing their hands.
 
-In short, players who declared **tenpai** receive payments from players who did not.
+Players who declared **tenpai** receive payments from players who declared **noten**.
 
 > [!NOTE]
 > TODO: insert ryuukyoku page
