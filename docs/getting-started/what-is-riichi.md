@@ -46,6 +46,15 @@ There are 7 kinds of honor tiles: 4 winds and 3 dragons.
 567z
 ```
 
+### Special tiles
+
+In some rulesets, red five tiles are used.
+These tiles give bonus points for your hand.
+
+```mj
+0555m _ 0555p _ 0555s
+```
+
 ## Tile groups
 
 A typical winning hand consists of 4 **melds** and a **pair**.
@@ -100,30 +109,13 @@ The four melds and one pair are:
 - Meld #4: `mj 444z`
 - Pair: `mj 11p`
 
-## Game structure
-
-### Seats
+## Seats and Rounds
 
 Riichi mahjong is a 4-player game.
-The seats of the players are assigned winds: East, South, West, North, in an anti-clockwise order.
+The **seats** of the players are assigned winds: East, South, West, North, in an anti-clockwise order.
 The player seated East is the **dealer**.
 
 ![Seating arrangement](../_images/seats.webp)
-
-### Hands
-
-Players start a **hand** with 13 tiles.
-Moving anti-clockwise, players take turns to draw a tile and discard a tile.
-This happens repeatedly until someone wins or there are no more tiles to draw.
-
-> [!NOTE]
-> To be more precise, the first player (aka the dealer) starts with 14 tiles and skips their very first draw. The rest of the players still start with 13 tiles though.
-
-After a **hand** concludes, depending on the results, the dealer either keeps their dealership or passes the dealership to the next person. The following illustration demonstrates when dealership rotates to Player 2.
-
-![Dealership rotation](../_images/dealership-rotation.webp)
-
-### Rounds
 
 Riichi mahjong games are structured around a series of **rounds**.
 **Rounds** are also assigned winds.
@@ -132,14 +124,6 @@ A match is commonly played over 1 or 2 rounds:
 - Tonpuusen: **east round** only
 - Hanchan: **east round** and **south round**
 
-When dealership has rotated 4 times, this marks the end of a **round**. This could mean the start of a new **round** or the match is over.
+The **seats** rotate as the **round** goes. The **round** ends when the **seats** have rotated 4 times.
 
-### Timeline
-
-Hands are usually denoted by the current **round wind** as well as the current **dealer**.
-
-The first hand played is usually written as **East 1**, because it is the **East round** and the **1st player** is the dealer.
-The hands played over the **East round** are **East 1**, **East 2**, **East 3** and **East 4**.
-
-
-![Hands in East round](../_images/tonpuu.webp)
+![Seats rotation](../_images/tonpuu.webp)
