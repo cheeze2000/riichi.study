@@ -2,13 +2,20 @@
 
 The objective of riichi mahjong is to finish the game with the most points.
 
-Players start the game with equal starting points (e.g., 25,000). Winning a hand is the primary way to earn points, and it is why it is important to be the first player to form a valid winning hand.
+Players start the game with an amount of points (e.g., 25,000). Winning a hand is the primary way to earn points.
+
+## Start of a hand
+
+Players start a hand with **13** tiles. Moving **anti-clockwise**, players take turns to draw a tile and discard a tile. This happens repeatedly until someone wins or there are no more tiles to draw.
+
+> [!NOTE]
+> To be more precise, the first player starts with 14 tiles and skips their very first draw. The rest of the players still start with 13 tiles though.
 
 ## Requirements to win
 
-In order to win, there are two requirements:
+In order to win a hand, there are two requirements:
 - A hand must be "complete", the most common being 4 **melds** and a **pair**
-- A hand must have a **yaku**.
+- A hand must have at least one **yaku**.
 
 > [!NOTE]
 > There are 3 ways to complete a hand:
@@ -68,7 +75,7 @@ Chinitsu is a yaku for a hand with only one number tile suit.
 
 ## Declaring a win
 
-If your hand is in **tenpai** and it has a **yaku** upon winning, you may declare a win.
+If your hand is in **tenpai** and it has at least one **yaku** upon winning, you may declare a win.
 
 > [!WARNING]
 > In real life play, declaring a false win incurs a heavy penalty! TODO: insert chombo page
@@ -87,16 +94,13 @@ The hand above wins after drawing `mj 7p` to complete the last sequence. The win
 
 You can call **ron** to declare a win on another player's discarded tile.
 
-> [!WARNING]
-> You may not call **ron** if you are in furiten. TODO: insert furiten page
-
-## End of hand
+## End of a hand
 
 A hand ends when a player wins or a draw occurs. Points may be exchanged at the end of a hand.
 
 ### Win
 
-Upon winning, the value in your hand is determined by combining all the yaku in your hand. The higher the value, the higher the points.
+The points you gain upon winning is determined by the value of your hand. The more yaku you have, the higher the value.
 
 If you win by **tsumo**, everyone else splits the cost and pays their share.
 
