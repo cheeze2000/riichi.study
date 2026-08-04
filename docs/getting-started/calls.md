@@ -64,11 +64,3 @@ You can call **kan** to upgrade a **pon**'d triplet into an added **kan** if you
 ```mj
 555=m _ 8=88p _ 77=7z
 ```
-
-## Tsumo
-
-You can call **tsumo** if you draw your winning tile.
-
-## Ron
-
-You can call **ron** on a discarded tile if it is your winning tile.
