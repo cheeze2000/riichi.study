@@ -12,6 +12,10 @@ A hand is **closed** (menzen) if it has not made any **calls**.
 
 Exception: a closed kan does not open the hand.
 
+```mj
+0z22s0z
+```
+
 ## Requirements
 
 To declare **riichi**:
