@@ -24,6 +24,18 @@ To declare **riichi**:
 
 You declare riichi by discarding a tile and deposit 1000 points.
 
+The discarded tile is rotated in the discard pile.
+
+```mj
+32z6s153p
+```
+
+<div class="tile-block-row-separator"></div>
+
+```mj
+4m6z1-s
+```
+
 ## The riichi autoplay
 
 After declaring **riichi**, your hand is fixed.
