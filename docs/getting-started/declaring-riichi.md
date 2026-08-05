@@ -47,8 +47,8 @@ You are simply waiting to **tsumo** or **ron**.
 
 ## Benefits
 
-Winning after declaring **riichi** has many advantages:
-- You earn the deposit back
+Declaring **riichi** has many advantages:
+- You earn the deposit back if you win
 - Your hand has a guaranteed yaku, **Riichi**
 - Your hand may increase in value due to having more dora
 
