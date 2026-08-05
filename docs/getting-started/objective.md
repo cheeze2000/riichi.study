@@ -15,7 +15,7 @@ Players start a hand with **13** tiles. Moving **anti-clockwise**, players take 
 
 In order to win a hand, there are two requirements:
 - A hand must be "complete", the most common being 4 **melds** and a **pair**
-- A hand must have at least one **yaku**.
+- A hand must have at least one **yaku**
 
 > [!NOTE]
 > There are 3 ways to complete a hand:
