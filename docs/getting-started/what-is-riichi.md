@@ -48,7 +48,7 @@ There are 7 kinds of honor tiles: 4 winds and 3 dragons.
 
 ### Special tiles
 
-In some rulesets, red five tiles are used.
+In some rulesets, "red five" tiles are used.
 These tiles give bonus points for your hand.
 
 ```mj
@@ -120,7 +120,7 @@ The player seated East is the **dealer**.
 Riichi mahjong games are structured around a series of **rounds**.
 **Rounds** are also assigned winds.
 
-A match is commonly played over 1 or 2 rounds:
+A match is commonly played over 1 or 2 **rounds**:
 - Tonpuusen: **east round** only
 - Hanchan: **east round** and **south round**
 
