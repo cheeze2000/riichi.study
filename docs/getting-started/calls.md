@@ -1,9 +1,9 @@
 # Calls
 
-Beyond the standard draw-and-discard flow, you can **call** a tile discarded by another player to complete a meld.
+You can make **calls** beyond the standard draw-and-discard flow.
 
-Melds completed this way are displayed to everyone.
-The discarded tile is rotated and positioned according to who you called it from.
+For example, you can **call** a tile discarded by another player to complete a meld.
+The meld is displayed to everyone and the discarded tile is rotated and positioned accordingly:
 - Positioned on the left = called from your left
 - Positioned in the center = called from across
 - Positioned on the right = called from your right
