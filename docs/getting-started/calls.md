@@ -1,19 +1,12 @@
 # Calls
 
-Players have the option to make **calls** on top of the standard draw-and-discard flow.
+Beyond the standard draw-and-discard flow, you can **call** a tile discarded by another player to complete a meld.
 
-There are 2 kinds of calls:
-- Calls on tiles discarded by other players
-- Calls on your own tiles
-
-Calling on discarded tiles can help you form melds to advance your hand.
-
-When forming melds with a discarded tile, the discarded tile is rotated and positioned according to who you called it from.
+Melds completed this way are displayed to everyone.
+The discarded tile is rotated and positioned according to who you called it from.
 - Positioned on the left = called from your left
 - Positioned in the center = called from across
 - Positioned on the right = called from your right
-
-Melds formed this way are displayed to everyone.
 
 ## Chii
 
