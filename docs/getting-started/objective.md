@@ -113,7 +113,7 @@ If you win by **ron**, the person who discarded the tile pays the full amount.
 
 Exhaustive draw occurs when there are no more tiles to draw.
 
-Players may declare **tenpai** and reveal their **tenpai** hands. Players may also declare **noten** (no tenpai) without revealing their hands.
+Players either declare **tenpai** and reveal their **tenpai** hands or declare **noten** (no tenpai) without revealing their hands.
 
 Players who declared **tenpai** receive payments from players who declared **noten**.
 
