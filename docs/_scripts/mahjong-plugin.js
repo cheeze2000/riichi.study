@@ -22,7 +22,7 @@ function renderMahjongSvg(position, notation) {
 
 function _svgTemplate(position, tile, modifier, background) {
 	if (tile === "8z") {
-		return `<svg viewBox="0 0 1 1" width="0.75em" height="1"></svg>`;
+		return `<svg class="tile-block--spacer" viewBox="0 0 1 1" height="1"></svg>`;
 	}
 
 	if (modifier === "=") {
