@@ -4,5 +4,6 @@
   - [Calls](getting-started/calls.md)
   - [Declaring riichi](getting-started/declaring-riichi.md)
   - [Dora](getting-started/dora.md)
+  - [Hand value](getting-started/hand-value.md)
 
 -

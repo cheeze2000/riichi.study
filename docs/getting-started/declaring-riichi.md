@@ -22,7 +22,7 @@ To declare **riichi**:
 - Your hand must be **closed**
 - Your hand must be in **tenpai**
 
-You declare riichi by discarding a tile and deposit 1000 points.
+You declare riichi by discarding a tile and deposit 1,000 points.
 
 The discarded tile is rotated in the discard pile.
 
