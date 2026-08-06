@@ -29,8 +29,6 @@ A hand won with only number tiles numbered 2 to 8.
 A hand won with a triplet of the value tiles.
 Value tiles are **dragons**, **seat winds** and **round winds**.
 
-If the current round is **South** and you are seated **North**, your value tiles are `mj 2z`, `mj 4z` and the dragons.
-
 These triplets are additive, meaning you earn 1 han for each of these triplets in your hand.
 
 ```mj
