@@ -6,7 +6,7 @@ You can use these tips to help you win a game.
 ## Recommended yaku
 
 Beginners are not expected to memorize every single **yaku** in riichi mahjong.
-Instead, it is better to focus on a few simple **yaku** that are easy to achieve.
+Instead, it is better to focus on a few simple **yaku** that are easy to remember.
 
 ### Riichi - 1 Han
 
