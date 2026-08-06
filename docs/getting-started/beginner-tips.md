@@ -37,7 +37,7 @@ These triplets are additive, meaning you earn 1 han for each of these triplets i
 
 ### Seven pairs (chiitoitsu) - 2 Han
 
-A hand won with 7 pairs.
+A hand won with 7 unique pairs.
 
 ```mj
 2277m1p330599s44z _ 1p
