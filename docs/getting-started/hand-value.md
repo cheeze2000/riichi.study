@@ -1,6 +1,6 @@
 # Hand value
 
-This section explains how **yaku** and **dora** contribute to hand value.
+This section explains how **yaku** and **dora** contribute to the value of your hand.
 
 Hand value is measured in **han** and **fu**.
 
