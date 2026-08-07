@@ -7,7 +7,7 @@
 At the start of every hand, one **dora indicator** is shown.
 
 ```mj
-0z0z3p0z0z0z0z
+00z3p0000z
 ```
 
 The tile **after** the **dora indicator** is the **dora**.
@@ -59,7 +59,7 @@ During gameplay, additional **dora** can be introduced in a hand.
 Whenever a player calls **kan**, a new **dora indicator** is revealed.
 
 ```mj
-0z0z3p9m0z0z0z
+00z3p9m000z
 ```
 
 Now, both `mj 4p` and `mj 1m` are the **dora** for the current hand.

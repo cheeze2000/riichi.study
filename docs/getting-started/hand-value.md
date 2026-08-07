@@ -21,6 +21,19 @@ Full flush is only worth 5 **han** in open hands.
 **Dora** tiles give an extra 1 **han**.
 However, you have learned previously that **dora** can stack on the same tile. In that case, a double **dora** tile would be worth 2 **han**.
 
+## Example
+
+Dora indicator: `mj 00z7m0000z`
+
+```mj
+055m22067p45s _ 6s _ 8-88m
+```
+
+This hand is worth 6 **han**:
+- All simples (1 **han**)
+- Dora (3 **han**) from `mj 8m`
+- Aka dora (2 **han**) from `mj 0m` and `mj 0p`
+
 ## Points
 
 The table shows estimates of hand value given the total **han** in the hand.
