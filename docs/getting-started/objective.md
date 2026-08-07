@@ -106,9 +106,6 @@ If you win by **tsumo**, everyone else splits the cost and pays their share.
 
 If you win by **ron**, the person who discarded the tile pays the full amount.
 
-> [!NOTE]
-> Scoring is a rather complicated topic. TODO: insert scoring page
-
 ### Exhaustive draw
 
 Exhaustive draw occurs when there are no more tiles to draw.

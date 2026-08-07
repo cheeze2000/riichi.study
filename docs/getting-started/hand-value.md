@@ -36,6 +36,9 @@ The table shows estimates of hand value given the total **han** in the hand.
 | 11, 12 | 24,000 |
 | 13+ | 32,000 |
 
+> [!NOTE]
+> Scoring is a rather complicated topic. TODO: insert scoring page
+
 ## Hand value as a dealer
 
 As the **dealer** (East), hands are worth 50% more.
