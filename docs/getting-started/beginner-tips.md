@@ -69,5 +69,5 @@ A hand won with honor tiles and one suit of number tiles.
 A hand won with only one suit of number tiles.
 
 ```mj
-1235557s _ 6s _ 4-56s _ 8-79s
+1115557s _ 6s _ 4-56s _ 8-79s
 ```
