@@ -1,7 +1,15 @@
 # Beginner tips
 
 If you made it this far, you should be ready to play a game now.
-You can use these tips to help you win a game.
+You can use these tips to help you in your journey.
+
+## Recommended clients
+
+- [Mahjong Soul](https://mahjongsoul.yo-star.com/)
+  - Can be played on browser
+  - Available on Steam, App Store, Google Play
+- [Riichi City](https://www.mahjong-jp.com/)
+  - Available on Steam, App Store, Google Play
 
 ## Recommended yaku
 
@@ -11,10 +19,6 @@ Instead, it is better to focus on a few simple **yaku** that are easy to remembe
 ### Riichi - 1 Han
 
 A hand won after declaring riichi.
-
-### Ippatsu - 1 Han
-
-A hand won after declaring riichi and before the next discard.
 
 ### All simples (tanyao) - 1 Han
 
