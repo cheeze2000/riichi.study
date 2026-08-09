@@ -5,6 +5,7 @@
   - [Declaring riichi](getting-started/declaring-riichi.md)
   - [Dora](getting-started/dora.md)
   - [Furiten](getting-started/furiten.md)
+  - [Kuikae](getting-started/kuikae.md)
   - [Hand value](getting-started/hand-value.md)
   - [Beginner tips](getting-started/beginner-tips.md)
 
