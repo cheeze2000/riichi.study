@@ -65,12 +65,12 @@
       aspect-ratio: 36 / 57;
     }
 
-    .tile-block--spacer {
+    .tile-block--spacer-column {
       flex: 1;
       max-width: 0.75em;
     }
 
-    .tile-block-row-separator {
+    .tile-block--spacer-row {
       height: 3px;
     }
 
@@ -108,9 +108,17 @@
               return this.origin.code.apply(this, arguments);
             }
 
-            const svg = renderMahjongSvg("block", text);
+            const rows = [];
+            const lines = text.split("\n");
 
-            return `<div class="tile-row">${svg}</div>`;
+            for (const line of lines) {
+              const svg = renderMahjongSvg("block", line);
+              const row = `<div class="tile-row">${svg}</div>`;
+
+              rows.push(row);
+            }
+
+            return rows.join(`<div class="tile-block--spacer-row"></div>`);
           },
           codespan({ text }) {
             if (!text.startsWith("mj ")) {

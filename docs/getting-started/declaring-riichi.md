@@ -28,11 +28,6 @@ The discarded tile is rotated in the discard pile.
 
 ```mj
 32z6s153p
-```
-
-<div class="tile-block-row-separator"></div>
-
-```mj
 4m6z1-s
 ```
 
