@@ -78,14 +78,14 @@ Chinitsu is a yaku for a hand with only one number tile suit.
 If your hand is in **tenpai** and it has at least one **yaku** upon winning, you may declare a win.
 
 > [!WARNING]
-> In real life play, declaring a false win incurs a heavy penalty! TODO: insert chombo page
+> In real life play, declaring a false win incurs a heavy penalty!
 
 ### Tsumo
 
 You can call **tsumo** to declare a win after drawing your winning tile.
 
 ```mj
-567m3368p456s888s _ 7p
+234m3368p456s888s _ 7p
 ```
 
 The hand above wins after drawing `mj 7p` to complete the last sequence. The win is valid because it fulfills the requirements. The hand is complete (4 melds and a pair) and the hand has a yaku (all simples).
@@ -102,7 +102,7 @@ A hand ends when a player wins or a draw occurs. Points may be exchanged at the 
 
 The points you gain upon winning is determined by the value of your hand. The more yaku you have, the higher the value.
 
-If you win by **tsumo**, everyone else splits the cost and pays their share.
+If you win by **tsumo**, everyone else splits the payment and pays their share.
 
 If you win by **ron**, the person who discarded the tile pays the full amount.
 
@@ -112,11 +112,4 @@ Exhaustive draw occurs when there are no more tiles to draw.
 
 Players either declare **tenpai** and reveal their **tenpai** hands or declare **noten** (no tenpai) without revealing their hands.
 
-Players who declared **tenpai** receive payments from players who declared **noten**.
-
-> [!NOTE]
-> TODO: insert ryuukyoku page
-
-### Abortive draw
-
-In certain rulesets, abortive draws may occur under certain conditions.
+Players who declared **tenpai** receive a small amount from players who declared **noten**.

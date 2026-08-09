@@ -13,11 +13,8 @@ The meld is displayed to everyone and the discarded tile is rotated and position
 You can call **chii** to complete a sequence with a discarded tile. **Chii** can only be called on tiles discarded by the player to your **left**.
 
 ```mj
-6-45m _ 7-89p _ 3-24s
+3-12m _ 8-79p _ 2-34s
 ```
-
-> [!WARNING]
-> The tile that you discard may not be a tile that can also complete the sequence! TODO: insert kuikae page
 
 ## Pon
 
@@ -26,9 +23,6 @@ You can call **pon** to complete a triplet with a discarded tile. Unlike **chii*
 ```mj
 555-m _ 8-88p _ 77-7z
 ```
-
-> [!WARNING]
-> The tile that you discard may not be a tile that can also complete the triplet!
 
 ## Kan
 

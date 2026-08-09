@@ -25,7 +25,7 @@ A hand won after declaring riichi.
 A hand won with only number tiles numbered 2 to 8.
 
 ```mj
-4467m222s _ 8m _ 4-35p _ 66-6p
+33m22267s _ 8s _ 4-35p _ 66-6p
 ```
 
 ### Value tiles (yakuhai) - 1 Han

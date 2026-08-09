@@ -30,7 +30,7 @@ Discarding a `mj 1z` is forbidden because it could also complete the meld.
 
 ## Another example
 
-Suppose you are going for all simples yaku:
+Suppose you are going for all simples:
 
 ```mj
 66m123s67s _ 222-p _ 55-5p

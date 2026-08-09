@@ -32,8 +32,8 @@ Here are some examples of **dora** given their **dora indicators**.
 
 | Dora indicator | Dora |
 | :---: | :---: |
-| `mj 7m` | `mj 8m` |
-| `mj 1p` | `mj 2p` |
+| `mj 1m` | `mj 2m` |
+| `mj 7p` | `mj 8p` |
 | `mj 9s` | `mj 1s` |
 | `mj 2z` | `mj 3z` |
 | `mj 4z` | `mj 1z` |

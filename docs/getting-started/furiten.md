@@ -9,7 +9,7 @@ However, winning by **tsumo** is still possible.
 
 If you discarded a tile that could complete your **tenpai** hand, you automatically enter the state of **furiten**.
 
-For example, suppose you are going for all simples (tanyao).
+For example, suppose you are going for all simples.
 
 Your discard pile looks like this:
 

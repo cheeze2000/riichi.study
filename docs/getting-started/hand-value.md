@@ -21,6 +21,9 @@ Full flush is only worth 5 **han** in open hands.
 **Dora** tiles give an extra 1 **han**.
 However, you have learned previously that **dora** can stack on the same tile. In that case, a double **dora** tile would be worth 2 **han**.
 
+> [!WARNING]
+> Dora is **not** a yaku!
+
 ## Example
 
 Dora indicator: `mj 00z7m0000z`
@@ -48,9 +51,6 @@ The table shows estimates of hand value given the total **han** in the hand.
 | 8, 9, 10 | 16,000 |
 | 11, 12 | 24,000 |
 | 13+ | 32,000 |
-
-> [!NOTE]
-> Scoring is a rather complicated topic. TODO: insert scoring page
 
 ## Hand value as a dealer
 
