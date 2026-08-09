@@ -68,4 +68,6 @@ Now, both `mj 4p` and `mj 1m` are the **dora** for the current hand.
 
 Upon winning after declaring **riichi**, tiles underneath the current **dora indicator(s)** become additional **dora indicators**.
 
+![Ura dora](../_images/ura-dora.webp)
+
 This effectively doubles the number of **dora indicators**. As a result, **ura dora** can greatly increase the value of hands won with **riichi**.

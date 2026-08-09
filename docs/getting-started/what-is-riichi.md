@@ -109,6 +109,40 @@ The four melds and one pair are:
 - Meld #4: `mj 444z`
 - Pair: `mj 11p`
 
+## Initial setup
+
+The following screenshots are taken from [Autotable](https://pwmarcz.pl/autotable/), a riichi mahjong table simulator.
+
+The initial **wall** has four sides, each made of stacks **2** tiles high and **17** tiles wide.
+
+![Initial setup](../_images/table-initial.webp)
+
+### Breaking the wall
+
+A player then rolls the dice to determine where to break the wall.
+
+![Breaking the wall](../_images/breaking-the-wall.gif)
+
+The **dead wall** consists of **14** tiles (highlighted in red) to the **right** of the break point.
+
+The rest of the wall is the **live wall**, where players take turns drawing tiles. Draws begin at the tiles (highlighted in green) to the **left** of the break point and move clockwise.
+
+![Broken wall](../_images/broken-wall.webp)
+
+### The dead wall
+
+The third tile on the top row is revealed.
+
+![Dora flip](../_images/dora-flip.webp)
+
+> [!NOTE]
+> This tile serves as the **dora indicator**.
+> It is explained in the later sections.
+
+It is also customary for the first tile on the top row to be shifted down.
+
+![Rinshan tile](../_images/rinshan-tile.gif)
+
 ## Seats and Rounds
 
 Riichi mahjong is a 4-player game.
