@@ -1,5 +1,22 @@
 {
-	"dependencies": {
-		"docsify-cli": "^5.0.0"
-	}
+  "name": "riichi.study",
+  "version": "0.1.0",
+  "description": "Riichi mahjong resources and tools for beginner players",
+  "keywords": [
+    "riichi",
+    "mahjong"
+  ],
+  "author": "cheeze2000 <me@cheeze2000.net>",
+  "license": "Apache-2.0",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.18.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "dependencies": {
+    "docsify-cli": "^5.0.0"
+  }
 }
