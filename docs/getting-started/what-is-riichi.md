@@ -121,7 +121,7 @@ The initial **wall** has four sides, each made of stacks **2** tiles high and **
 
 A player then rolls the dice to determine where to break the wall.
 
-![Breaking the wall](../_images/breaking-the-wall.gif)
+![Breaking the wall](../_images/breaking-the-wall.webp)
 
 The **dead wall** consists of **14** tiles (highlighted in red) to the **right** of the break point.
 
@@ -141,7 +141,7 @@ The third tile on the top row is revealed.
 
 It is also customary for the first tile on the top row to be shifted down.
 
-![Rinshan tile](../_images/rinshan-tile.gif)
+![Rinshan tile](../_images/rinshan-tile.webp)
 
 ## Seats and Rounds
 
