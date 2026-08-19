@@ -36,11 +36,15 @@ There are 7 kinds of honor tiles: 4 winds and 3 dragons.
 
 #### Winds
 
+The 4 kinds of winds are East, South, West and North.
+
 ```mj
 1234z
 ```
 
 #### Dragons
+
+The 3 kinds of dragons are White, Green and Red.
 
 ```mj
 567z

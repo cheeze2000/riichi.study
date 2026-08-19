@@ -6,7 +6,7 @@ Riichi mahjong resources and tools for beginner players
 
 Looking to learn how to play riichi mahjong? Click [here](getting-started/what-is-riichi.md).
 
-You can also use the sidebar to explore topics at your own pace.
+This section introduces riichi mahjong to complete beginners and prepares them for online play.
 
 ## Credits
 
