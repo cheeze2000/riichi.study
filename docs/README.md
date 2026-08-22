@@ -8,7 +8,13 @@ This guide is designed to be read sequentially, but feel free to use the sidebar
 
 Looking to learn how to play riichi mahjong? Click [here](getting-started/what-is-riichi.md).
 
-This section introduces riichi mahjong to complete beginners and prepares them for online play.
+This section introduces riichi mahjong to complete beginners and prepares you for online play.
+
+## Getting realistic
+
+Ready to play in-person? Click [here](getting-realistic/playing-irl.md).
+
+This section explains the game in more detail and prepares you for IRL play.
 
 ## Credits
 

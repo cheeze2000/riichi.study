@@ -9,5 +9,8 @@
   - [Hand value](getting-started/hand-value.md)
   - [Beginner tips](getting-started/beginner-tips.md)
 
+- Getting realistic
+  - [Playing IRL](getting-realistic/playing-irl.md)
+
 - Appendix
   - [Credits](appendix/credits.md)
