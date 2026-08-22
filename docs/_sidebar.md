@@ -9,4 +9,5 @@
   - [Hand value](getting-started/hand-value.md)
   - [Beginner tips](getting-started/beginner-tips.md)
 
--
+- Appendix
+  - [Credits](appendix/credits.md)
