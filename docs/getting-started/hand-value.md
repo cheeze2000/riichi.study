@@ -26,15 +26,15 @@ However, you have learned previously that **dora** can stack on the same tile. I
 
 ## Example
 
-Dora indicator: `mj 00z7m0000z`
+Dora indicator: `mj 00z2s0000z`
 
 ```mj
-055m22067p45s _ 6s _ 8-88m
+055m22406p57s _ 6s _ 3-33s
 ```
 
 This hand is worth 6 **han**:
 - All simples (1 **han**)
-- Dora (3 **han**) from `mj 8m`
+- Dora (3 **han**) from `mj 3s`
 - Aka dora (2 **han**) from `mj 0m` and `mj 0p`
 
 ## Points
