@@ -45,9 +45,9 @@ This hand is also in **tenpai** because it already has 3 melds and a pair. It is
 
 ## Yaku
 
-A yaku is a specific pattern or condition in a winning hand.
+A **yaku** is a specific pattern or condition in a winning hand.
 
-The following are some examples of yaku.
+The following are some examples of **yaku**.
 
 ##### All simples (tanyao)
 
