@@ -19,8 +19,6 @@ Here is a list of equipment commonly found in riichi mahjong, ordered from most 
 
 ### Tiles
 
-This one is a given!
-
 Riichi mahjong is played with 136 tiles.
 If you are playing with "red five" tiles, make sure your mahjong set comes with those.
 
