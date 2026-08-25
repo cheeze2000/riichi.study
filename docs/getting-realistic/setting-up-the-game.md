@@ -30,7 +30,7 @@ Every point stick has a value associated with it.
 | 100 | ![tenbou 100 uncolored](../_images/tenbou/tb100.webp) | None |
 
 Players typically start the game with **25,000** points.
-There are two combinations commonly used to distribute these points.
+There are two known combinations used to distribute these points.
 
 | Value | Combination 1 | Combination 2 |
 | :---: | :---: | :---: |
