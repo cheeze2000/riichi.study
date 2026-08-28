@@ -3,6 +3,7 @@
 This website is made possible with the help of these amazing projects and tools:
 - [docsify](https://docsify.js.org/#/)
 - [Inkscape](http://www.inkscape.org/)
+- [GIMP](https://www.gimp.org/)
 - [riichi.wiki](https://riichi.wiki/)
 - [Ezgif](https://ezgif.com/)
 - [Autotable](https://pwmarcz.pl/autotable/) by pwmarcz
