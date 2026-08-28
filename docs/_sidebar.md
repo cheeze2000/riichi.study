@@ -12,6 +12,7 @@
 - Getting realistic
   - [Playing IRL](getting-realistic/playing-irl.md)
   - [Setting up the game](getting-realistic/setting-up-the-game.md)
+  - [Start of a hand](getting-realistic/start-of-a-hand.md)
 
 - Appendix
   - [Credits](appendix/credits.md)
