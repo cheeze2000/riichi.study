@@ -72,7 +72,7 @@ Melds can either be sequences or triplets.
 Sequences are formed with 3 consecutive number tiles of the same suit.
 
 ```mj
-123m_678p_345s
+123m _ 678p _ 345s
 ```
 
 #### Triplets
@@ -80,7 +80,7 @@ Sequences are formed with 3 consecutive number tiles of the same suit.
 Triplets are formed with any 3 identical tiles.
 
 ```mj
-333s_222z_555z
+333s _ 222z _ 555z
 ```
 
 #### Quads
@@ -97,7 +97,7 @@ Quads generally function as triplets.
 Pairs are just... pairs.
 
 ```mj
-99m_55p_77z
+99m _ 55p _ 77z
 ```
 
 ### Example

@@ -24,11 +24,19 @@ To declare **riichi**:
 
 You declare **riichi** by discarding a tile and deposit **1,000** points.
 
-The discarded tile is rotated in the discard pile.
+The discarded tile is rotated sideways in the discard pile.
 
 ```mj
 32z6s153p
 4m6z1-s
+```
+
+Your subsequent discards are not rotated sideways.
+
+```mj
+32z6s153p
+4m6z1-s46z0m
+1p4s
 ```
 
 ## The riichi autoplay

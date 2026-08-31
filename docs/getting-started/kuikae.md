@@ -15,7 +15,7 @@ Suppose you call **chii** on `mj 7p` to form the following meld:
 Discarding `mj 4p` or `mj 7p` is forbidden because both tiles could also complete the meld.
 
 ```mj
-4-56p _ 7-56p
+4-56p _ _ _ 7-56p
 ```
 
 ## Restriction on pon
