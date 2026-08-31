@@ -29,9 +29,9 @@ For **step 4**, multiple melds are normally stacked on top of one another.
 This is different from online clients where they are placed next to each other.
 
 ```mj
-6-57s
-77-7z
 2-34p
+77-7z
+6-57s
 ```
 
 For **step 5**, be mindful of the [kuikae](../getting-started/kuikae.md) rule!
