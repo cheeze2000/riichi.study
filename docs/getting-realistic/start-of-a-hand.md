@@ -14,7 +14,7 @@ If you are lucky enough to play on an automatic table, you get to skip this part
 
 After shuffling, every player builds their own wall, **2** tiles high and **17** tiles wide.
 
-> [!NOTE]
+> [!TIP]
 > Don't worry about stacking 17 tiles in one go.
 > There is no shame in doing it bit by bit.
 
@@ -30,7 +30,7 @@ Starting with the dealer as 1, count anti-clockwise to determine whose wall will
 | West | 3, 7, 11 |
 | North | 4, 8, 12 |
 
-> [!NOTE]
+> [!TIP]
 > You can also find these numbers on your mahjong compass!
 
 The chosen person uses the same sum and counts from the right end of their wall.
@@ -56,7 +56,7 @@ Afterwards, draw the final tiles as shown below:
 
 The dealer starts with 14 tiles while the remaining players start with 13 tiles.
 
-> [!NOTE]
+> [!WARNING]
 > There are high-end automatic tables that deal starting hands to players.
 > However, these tables always deal 13 tiles to everyone.
 > The dealer must remember to draw one tile to start their hand with 14!
