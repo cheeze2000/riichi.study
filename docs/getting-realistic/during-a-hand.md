@@ -82,7 +82,7 @@ When declaring **tsumo**, the steps are as follows:
 1. Say "**tsumo**" or "**ron**" clearly
 1. Reveal your winning tile (only for **tsumo**)
 1. Reveal your hand
-1. Reveal the **ura dora indicators** (only if you declared **riichi**)
+1. Reveal the **ura dora indicator(s)** (only if you declared **riichi**)
 1. Announce the score of your hand
 
 > [!WARNING]
