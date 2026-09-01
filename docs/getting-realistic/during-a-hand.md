@@ -41,7 +41,7 @@ For **step 5**, be mindful of the [kuikae](../getting-started/kuikae.md) rule!
 
 ## Kan
 
-When calling **closed kan**, the steps are similar to **chii** and **pon**:
+When calling **kan**, the steps are similar to **chii** and **pon**:
 1. Say "**kan**" clearly
 1. Reveal tile(s) from your hand
 1. Form the meld and place it in your bottom-right corner
