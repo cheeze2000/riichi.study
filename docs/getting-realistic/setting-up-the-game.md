@@ -36,8 +36,8 @@ There are two known combinations used to distribute these points.
 | :---: | :---: | :---: |
 | 10,000 | 1x | - |
 | 5,000 | 2x | 3x |
-| 1,000 | 4x | 7x |
-| 500 | 1x | 5x |
+| 1,000 | 4x | 8x |
+| 500 | 1x | 3x |
 | 100 | 5x | 5x |
 
 > [!NOTE]
