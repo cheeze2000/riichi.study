@@ -137,10 +137,10 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@5"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"></script>
   <script src="_scripts/mahjong-plugin.js"></script>
-  <script>
-    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  <script type="module">
+    import { inject } from "https://esm.sh/@vercel/analytics";
+    inject();
   </script>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 
 </html>
