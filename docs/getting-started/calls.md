@@ -30,7 +30,7 @@ You can call **kan** to complete a quad. There are 3 types of **kan**.
 
 #### Closed kan
 
-You can call **kan** to declare a closed **kan** if you have all four copies of a tile.
+You can call **kan** to declare a **closed kan** if you have all four copies of a tile.
 
 ```mj
 0z22s0z
@@ -46,7 +46,7 @@ You can call **kan** to complete a quad with a discarded tile. Like **pon**, **k
 
 #### Added kan
 
-You can call **kan** to upgrade a **pon**'d triplet into an added **kan** if you have the fourth tile.
+You can call **kan** to upgrade a **pon**'d triplet into an **added kan** if you have the fourth tile.
 
 ```mj
 555=m _ 8=88p _ 77=7z

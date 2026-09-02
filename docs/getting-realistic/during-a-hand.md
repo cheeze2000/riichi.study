@@ -53,16 +53,36 @@ When calling **kan**, the steps are similar to **chii** and **pon**:
 > In online clients, the **dora indicator** may be revealed only after you discard a tile.
 > The timing for kan dora depends on the ruleset.
 
+### Closed kan
+
 For **closed kan**, reveal all four tiles before turning two face-down.
 
 ```mj
 2222s _ _ _ 0z22s0z
 ```
 
-When doing a **closed kan** with "red fives", the "red five" must be face-up.
+When calling a **closed kan** with "red fives", the "red five" must be face-up.
 
 ```mj
 0555p _ _ _ 0z50p0z
+```
+
+### Open kan
+
+For **open kan**, reveal three tiles, form the meld and place it in your bottom-right corner.
+
+If calling an **open kan** from the player across, both of these melds are acceptable.
+
+```mj
+99-99m _ _ _ 999-9m
+```
+
+### Added kan
+
+For **added kan**, form the meld by upgrading a **pon** to a **kan** by adding a fourth tile.
+
+```mj
+999-s _ _ _ 999=s
 ```
 
 ## Riichi
