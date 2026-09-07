@@ -31,14 +31,6 @@ The discarded tile is rotated sideways in the discard pile.
 4m6z1-s
 ```
 
-Your subsequent discards are not rotated sideways.
-
-```mj
-32z6s153p
-4m6z1-s46z0m
-1p4s
-```
-
 ## The riichi autoplay
 
 After declaring **riichi**, your hand is fixed.
