@@ -3,6 +3,17 @@
 There are many actions a player can take during a hand.
 This page explains what happens for every single possible action in detail.
 
+## Drawing a tile
+
+When drawing a tile, do not mix it into your hand right away.
+Always keep the new tile at the end of your hand until you discard a tile.
+
+This allows other players to see whether you are discarding a tile that you just drew or a tile that was already in your hand.
+
+> [!NOTE]
+> This is important information for players who read discards.
+> You must not deliberately withhold this information.
+
 ## Chii and Pon
 
 When calling **chii** or **pon**, the steps are as follows:
