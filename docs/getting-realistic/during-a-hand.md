@@ -101,7 +101,7 @@ For **added kan**, form the meld by upgrading a **pon** to a **kan** by adding a
 When declaring **riichi**, the steps are as follows:
 1. Say "**riichi**" clearly
 1. Discard a tile and place it sideways
-1. Place your 1,000-point riichi stick on the compass
+1. Place your **1,000-point** riichi stick on the compass
 
 For **step 2**, if someone calls on your discarded tile, you must remember to place your next discard sideways.
 
