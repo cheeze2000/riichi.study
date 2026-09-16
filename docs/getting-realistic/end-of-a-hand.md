@@ -36,3 +36,8 @@ The **noten** penalty is **3,000** points, split among all **noten** players and
 | 2 | 2 | The 2 noten players each pay **1,500** points (each tenpai player receives **1,500** points).
 | 3 | 1 | The noten player pays **1,000** points to each of the 3 tenpai players.
 | 4 | 0 | No points are exchanged.
+
+Any riichi sticks on the table are carried over and claimed by the next player who wins.
+
+In addition, the honba counter increases by one.
+The dealer repeats their dealership only if they are in tenpai.
