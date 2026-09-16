@@ -11,6 +11,8 @@ This section covers these scenarios in more detail and introduces new terms like
 - The **honba** counter **resets** if a non-dealer wins.
 
 Each **honba** adds **300** bonus points to a winning hand.
+- In the case of **ron**, the discarder pays an extra **N × 300** points.
+- In the case of **tsumo**, the other three players each pay an extra **N × 100** points.
 
 > [!NOTE]
 > **Honba** is typically tracked using the dealer's **100-point** sticks.
@@ -39,5 +41,23 @@ The **noten** penalty is **3,000** points, split among all **noten** players and
 
 Any riichi sticks on the table are carried over and claimed by the next player who wins.
 
-In addition, the honba counter increases by one.
-The dealer repeats their dealership only if they are in tenpai.
+The honba counter increases by one.
+The dealer repeats their dealership if they are in tenpai.
+
+## Win
+
+When a player declares a win, they receive points based on the value of the hand.
+The honba counter also contributes bonus points, as well as any riichi sticks carried over from previous rounds.
+
+Here is an example on how a **6-han** hand is scored.
+A standard **6-han** hand is worth **12,000** points for a non-dealer and **18,000** points for a dealer.
+Assuming the honba counter is at **2**, the bonus is **2 × 300 = 600** points.
+
+| Winner | Win By | Payment Breakdown
+| --- | --- | --- |
+| Non-dealer | Ron | Discarder pays **12,600** points.
+| Non-dealer | Tsumo | Non-dealers pay **3,200** points each. Dealer pays **6,200** points.
+| Dealer | Ron | Discarder pays **18,600** points.
+| Dealer | Tsumo | Non-dealers pay **6,200** points each.
+
+The dealer repeats their dealership if they win.
