@@ -45,7 +45,7 @@ This is different from online clients where they are placed next to each other.
 6-57s
 ```
 
-For **step 5**, be mindful of the [kuikae](../getting-started/kuikae.md) rule!
+For **step 5**, be mindful of the [kuikae](getting-started/kuikae.md) rule!
 
 > [!WARNING]
 > The penalty for **kuikae** is a dead hand!
@@ -116,5 +116,5 @@ When declaring **tsumo**, the steps are as follows:
 1. Reveal the **ura dora indicator(s)** (only if you declared **riichi**)
 1. Announce the score of your hand
 
-> [!WARNING]
-> You must never take the **ron'd** tile. It is bad etiquette!
+> [!NOTE]
+> [Scoring](appendix/scoring.md) a hand in riichi mahjong is quite complex.

@@ -17,4 +17,5 @@
   - [End of a hand](getting-realistic/end-of-a-hand.md)
 
 - Appendix
+  - [Scoring](appendix/scoring.md)
   - [Credits](appendix/credits.md)
