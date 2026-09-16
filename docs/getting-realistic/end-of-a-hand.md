@@ -61,3 +61,13 @@ Assuming the honba counter is at **2**, the bonus is **2 × 300 = 600** points.
 | Dealer | Tsumo | Non-dealers pay **6,200** points each.
 
 The dealer repeats their dealership if they win.
+
+### Multiple ron
+
+Sometimes, a **double ron** (or even **triple ron**) may occur.
+In online clients, this is allowed.
+In that case, the discarder has to pay all the winners.
+
+In real life play, a tiebreaker is more commonly used.
+When **multiple ron** happens, the win goes to the closest player in turn order from the discarder.
+For example, if **South** discards a tile and both **East** and **West** call **ron**, **West** gets the win.
