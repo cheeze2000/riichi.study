@@ -80,13 +80,13 @@ If your pair is a **yakuhai** pair (**dragon**, **seat wind** or **round wind**)
 There are **five** basic **waits**.
 You may get additional **fu** depending on your **wait**.
 
-|  | Tiles | Wait(s) | Fu |
-| --- | --- | --- | --- |
-| Ryanmen | `mj 56s` | `mj 4s _ 7s` | 0 |
-| Shanpon | `mj 2277p` | `mj 2p _ 7p` | 0 |
-| Kanchan | `mj 79s` | `mj 8s` | 2 |
-| Penchan | `mj 12p` | `mj 3p` | 2 |
-| Tanki | `mj 2z` | `mj 2z` | 2 |
+| | Wait(s) | Fu |
+| --- | --- | --- |
+| Ryanmen<br>`mj 56s` | `mj 47s` | 0 |
+| Shanpon<br>`mj 2277p` | `mj 27p` | 0 |
+| Kanchan<br>`mj 79s` | `mj 8s` | 2 |
+| Penchan<br>`mj 12p` | `mj 3p` | 2 |
+| Tanki<br>`mj 2z` | `mj 2z` | 2 |
 
 ### Step 6: Finalize fu
 
