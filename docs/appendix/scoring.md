@@ -62,7 +62,7 @@ Here is an example of a winning hand.
 123p1144z _ 1z _ 2-13s _ 111-m
 ```
 
-Let's look at one of the melds, `mj 111z`. Is this meld **open** or **concealed**?
+Let's look at `mj 111z`. Is this meld **open** or **concealed**?
 
 This meld is **concealed** if the hand is won by **tsumo**.
 
@@ -83,10 +83,10 @@ You may get additional **fu** depending on your **wait**.
 | | Wait(s) | Fu |
 | --- | --- | --- |
 | Ryanmen<br>`mj 56s` | `mj 47s` | 0 |
-| Shanpon<br>`mj 2277p` | `mj 27p` | 0 |
+| Shanpon<br>`mj 22p66z` | `mj 2p6z` | 0 |
 | Kanchan<br>`mj 79s` | `mj 8s` | 2 |
 | Penchan<br>`mj 12p` | `mj 3p` | 2 |
-| Tanki<br>`mj 2z` | `mj 2z` | 2 |
+| Tanki<br>`mj 8m` | `mj 8m` | 2 |
 
 ### Step 6: Finalize fu
 
