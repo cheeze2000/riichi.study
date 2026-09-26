@@ -2,7 +2,7 @@
 
 Scoring is quite complex in riichi mahjong.
 
-Let's break down the scoring process into two:
+Let's break down the scoring process into three:
 1. Counting **han** of a winning hand
 1. Counting **fu** of a winning hand
 1. Converting **han** and **fu** into **points**
